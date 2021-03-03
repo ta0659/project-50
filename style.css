@@ -1,0 +1,62 @@
+h1{
+    color:red;
+    margin-left: 600px;
+}
+
+.header{
+    background-color:black;
+    display:flex;
+    justify-content: space-between;
+}
+
+.body{
+    text-size-adjust: 30px ;
+    background-color:white;
+    display:flex;
+    justify-content: space-around;
+}
+
+.bodyImage{
+    color: blanchedalmond;
+    font-size: 20px;
+    font-weight: 300;
+    font-style:oblique;
+}
+
+.bodyImage{
+    background-color:black;
+    display:flex;
+    justify-content: space-around;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.item{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:  black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: rgb(177, 176, 176);
+}
